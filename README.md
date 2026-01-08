@@ -2,7 +2,7 @@
   <strong>BeastX – PHP Source Code Protection Extension</strong>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/arshidkv12/beastx/stargazers">
     <img src="https://img.shields.io/github/stars/arshidkv12/beastx" alt="GitHub stars">
   </a>
@@ -12,7 +12,7 @@
   <a href="LICENSE">
     <img src="https://img.shields.io/github/license/arshidkv12/beastx" alt="License">
   </a>
-</p>
+</p> -->
 
 
 ## Overview
