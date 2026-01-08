@@ -21,8 +21,6 @@ PHP-Beast is a powerful PHP source code encryption module designed to protect yo
 ## Features
 - 🔒 Multiple Encryption Algorithms: Supports AES, DES, and Base64 encryption
 
-- 🚀 High Performance: Minimal performance overhead (see benchmarks below)
-
 - 🛡️ Security Enhancements: Customizable encryption keys and file headers
 
 - 🏷️ Machine Binding: Restrict execution to specific machines via MAC addresses
@@ -36,6 +34,8 @@ PHP-Beast is a powerful PHP source code encryption module designed to protect yo
 - 📁 Large File Support: Handle files up to specified size limits
 
 - 🔄 Cache System: Improve performance with configurable caching
+
+## How to install?
 
 
 ## Function List
