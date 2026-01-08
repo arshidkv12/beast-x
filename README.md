@@ -36,7 +36,9 @@ PHP-Beast is a powerful PHP source code encryption module designed to protect yo
 - 🔄 Cache System: Improve performance with configurable caching
 
 ## How to install?
-
+```bash
+pie install arshidkv12/beastx
+```
 
 ## Function List
 
